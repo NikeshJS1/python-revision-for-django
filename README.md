@@ -6,3 +6,6 @@ The Day 1 folder contains the code of my first day revision of Python where I re
 
 # Day 2 Folder:
 The Day 2 folder contains the code of my second day revision of Python. I revised conditional statements and string operations. 
+
+# Day 3 Folder:
+The Day 3 folder contains the descriptions and few codes of set and dictionary in python.
