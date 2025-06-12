@@ -9,3 +9,6 @@ The Day 2 folder contains the code of my second day revision of Python. I revise
 
 # Day 3 Folder:
 The Day 3 folder contains the descriptions and few codes of set and dictionary in python.
+
+# Day 4 Folder:
+The Day 4 folder containts the code and syntax for while and for loops along with break, continue, pass statements
